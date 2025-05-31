@@ -1,6 +1,4 @@
-Here’s a well-structured `README.md` for your Climate Change Modeling project on GitHub:
 
----
 
 # 🌍 Climate Change Modeling: Sea Level Prediction
 
